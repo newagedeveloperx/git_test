@@ -1,0 +1,1 @@
+This is Adams' first git project!
